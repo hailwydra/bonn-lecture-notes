@@ -2,14 +2,9 @@
 
 These are my personal notes for the courses:
 
-Advanced Topics in Topology - __Koszul Duality__ at the University of Bonn in the winter semester 2024/25 taught by (Dr.Yuqing Shi)[https://yuqingshi.bitbucket.io/teaching/kd.html].
+Advanced Topics in Topology - __Koszul Duality__ at the University of Bonn in the winter semester 2024/25 taught by [Dr.Yuqing Shi](https://yuqingshi.bitbucket.io/teaching/kd.html).
 
-As of 28/01/2025 these are missing lectures
-* 12/12
-* 22/01
-* 23/01
-
-as well as some structure and formatting issues, which I shall resolve to fix in the short term.
+There are still *some* missing proofs as some structure and formatting issues, which I shall resolve to fix in the short term.
 
 
 I claim no responsibility to any incorrect, hazy or misleading information contained in these notes - they are to be read at one's own risk.
